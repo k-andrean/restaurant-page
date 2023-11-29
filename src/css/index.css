@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Merienda';
+    src: url('../font/Merienda-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Merienda', cursive;
+}

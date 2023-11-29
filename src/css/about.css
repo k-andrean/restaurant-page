@@ -1,0 +1,31 @@
+.hero-text{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+    color: white; 
+    
+    margin-bottom: 1em;
+}
+
+
+.para-text{
+    text-align: justify; 
+    font-size: 20px; 
+    
+    color: white; 
+    
+    white-space: pre-line; 
+    
+    margin-bottom: 2em;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+.image-container > img{
+    width: 500px;
+    height: 250px;
+}

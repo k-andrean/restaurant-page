@@ -1,0 +1,48 @@
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    margin: 0.5rem 0;
+}
+
+.price-tag {
+    background-color: #333;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #555;
+}
+
+.top-text{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+
+    grid-area: 'toptext';
+    
+    font-size: 25px; 
+    
+    color: white; 
+    
+    background-color: red;  
+}
+
+.menu-content{
+    background-color: white; 
+    grid-area: 'menucontent'; 
+    
+    padding: 0.5rem;
+}
+
+.menu-box{
+    width: 60%; 
+    height: 90%; 
+
+    display: grid; 
+    grid-template-rows: 1fr 5fr;
+    grid-template-areas:
+        "toptext"
+        "menucontent"
+    ;
+}

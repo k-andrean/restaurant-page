@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Rendang Daging",
+    "price": "Rp 28000",
+    "description": "Meat braised in a coconut milk seasoned with a herb and spice ."
+  },
+  {
+    "name": "Nasi Goreng",
+    "price": "Rp 20000",
+    "description": "Cooked rice that has been stir-fried in frying pan mixed with eggs, vegetables, seafood, or meat."
+  },
+  {
+    "name": "Ayam Geprek",
+    "price": "Rp 28000",
+    "description": "Fried chicken smashed and mixed together with hot and spicy sambal chili paste."
+  },
+  {
+    "name": "Ayam Gulai",
+    "price": "Rp 28000",
+    "description": "Chicken cuts that are slowly simmered in a complex, spicy sauce which is based on coconut milk."
+  },
+  {
+    "name": "Mie Goreng",
+    "price": "Rp 20000",
+    "description": " Fried noodle dish made with yellow/wheat noodles and tastes sweet and savory."
+  },
+  {
+    "name": "Telur Dadar",
+    "price": "Rp 15000",
+    "description": "Indonesian-style omelette that is fluffy and delicious."
+  }
+]
